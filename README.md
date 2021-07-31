@@ -1,1 +1,1 @@
-no-fast-foward ブランチで変更
+conflict ブランチで変更
