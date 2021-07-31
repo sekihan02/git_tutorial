@@ -1,1 +1,1 @@
-new-feature ブランチで変更
+no-fast-foward ブランチで変更
