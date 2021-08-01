@@ -1,2 +1,3 @@
-master ブランチで変更
-コンフリクト発生！！
+# git practice
+
+git 上でファイルを更新。
