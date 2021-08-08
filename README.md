@@ -1,1 +1,2 @@
-変更 staging 用
+変更 warking directory 用
+複数ファイルの変更
